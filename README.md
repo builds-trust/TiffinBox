@@ -1,4 +1,4 @@
-# Group Project - Tiffin Box
+# Tiffin Box
 
 The project’s purpose is to provide a platform through which the food ordering and delivery process becomes easy for both the customers and food service providers. It also has an administrator role to manage the customers and food service providers of the application. Our goal is to enhance the overall food experience by providing a platform for effective order tracking and meal management. With features like tracking deliveries in real-time, earning reward points, and easy-to-use dashboards, we aim to make the experience smooth for everyone.
 
