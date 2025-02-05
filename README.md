@@ -25,13 +25,13 @@ Clone the Repository
 
 Clone with HTTPS
 ```bash
- git clone https://github.com/Keval-Gandevia/TiffinBox.git
+ git clone https://github.com/builds-trust/TiffinBox.git
  ```
 OR
 
 Clone with SSH
  ```bash
- git clone git@github.com:Keval-Gandevia/TiffinBox.git
+ git clone git@github.com:builds-trust/TiffinBox.git
 ```
 
 ### Local Setup - Frontend
